@@ -47,3 +47,6 @@ The main propose was summarize the tidy dataset by subject and activity, and app
 The name of the columns has been modified in order to have an appropriate name
 <br/>
 Finnaly the summarize tidy dataset was exported to <a href="https://github.com/paulorochasa/GettingAndCleaningData/blob/master/tidy_dataset.txt">tidy_dataset.txt</a> 
+
+## More details 
+For more details, you can access the <a href="">CodeBook</a> file, where all the variabes are explained or check the <a  href="https://github.com/paulorochasa/GettingAndCleaningData/blob/master/run_analysis.R">code</a>.
